@@ -2,6 +2,11 @@
 
 baseURL: https://biodiversite.monumentsnationaux.osuny.site
 
+## OSUNY
+osuny:
+  website:
+    id: 0b1fbea8-e00a-478e-bf4e-277b946b8da6
+
 ## LANGUAGE
 defaultContentLanguage: fr
 defaultContentLanguageInSubdir: false
